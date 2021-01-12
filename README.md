@@ -1,5 +1,5 @@
 # Camembert
-Camembert (Bert model for french) fine tuned for sentiment analysis.
+NLP model : Camembert (Bert model for french) fine tuned for sentiment analysis.
 
 As I did not find relevant french dataset for sentiment analysis, I downloaded an english version for a translation to french.
 The original Camenbert has been tuned with the translated dataset and has reached near 90% of accuracy on test dataset. Not too bad :-)
